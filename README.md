@@ -23,12 +23,12 @@ Print the characters and their Huffman code.
  
 ## Program:
 ```
-Developed By: Lubindher
-Register No: 212222240056
+Developed By: S VAISHNAV NANDA
+Register No: 212222240112
 ```
 ### Get the input String
 ``` python
-string = 'Lubindher S 212222240056'
+string =  S VAISHNAV NANDA 212222240112'
 class NodeTree(object):
     def __init__(self, left=None, right=None):
         self.left = left
